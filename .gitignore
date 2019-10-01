@@ -1,0 +1,15 @@
+target/
+logs/
+bin/
+output/
+.idea/
+cucumber-automation.iml
+.DS_Store
+allure-results
+.alllure
+.vscode/
+.settings/
+.classpath
+.project
+package-lock.json
+*.exe
