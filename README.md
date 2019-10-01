@@ -1,9 +1,8 @@
-# About Central QA Common Test Automation Framework
+# About Common Test Automation Framework
 
 This framework is basically developed and designed to automate application product test suites 
 
 # Work Flow
-At a high level, the [Git Development Workflow](http://wiki.aurea.local/x/VYCCD) being followed is:
 
 1. Create a branch
 2. Do your work
@@ -50,8 +49,8 @@ Note: overall it's quite helpful in dumping locators and po methods in a formatt
   1. Install and IDE such as VScode/IntelliJ/Eclipse ( any latest version will do )
   2. Install Maven plugin in IDE if it is not present/enabled
   3. Use git lfs clone to download the automation framework to your local system , GIT URL 
+	https://github.com/Rathore4u/java-selenium-cucumber-framework.git
 
-	https://github.com/trilogy-group/aescis-qa-automation-java-selenium.git
 
   4. Locate pom.XML and right click and choose Run As -> Maven Build
    ( Alternatively skipping step 6,7,8, you can run from console of IDE or system console as "mvn clean install" to give a trial run )
