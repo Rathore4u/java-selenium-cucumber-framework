@@ -4,13 +4,8 @@
 
 	<groupId>com.aescis.tests</groupId>
 	<version>0.0.1-SNAPSHOT</version>
-	<artifactId>aescis-qa-automation-java-selenium</artifactId>
+	<artifactId>qa-automation-java-selenium</artifactId>
 	<packaging>jar</packaging>
-
-	<organization>
-		<name>Aurea</name>
-		<url>http://www.aurea.com</url>
-	</organization>
 
 	<!-- Global Properties -->
 	<properties>
