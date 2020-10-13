@@ -11,7 +11,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.8</jdk.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<ignoreSnapshots>true</ignoreSnapshots>
 		<spring.version>4.2.4.RELEASE</spring.version>
 		<cucumber.version>1.2.5</cucumber.version>
