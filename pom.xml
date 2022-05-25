@@ -13,7 +13,7 @@
 		<jdk.version>1.8</jdk.version>
 		<junit.version>4.12</junit.version>
 		<ignoreSnapshots>true</ignoreSnapshots>
-		<spring.version>4.2.4.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<cucumber.version>1.2.5</cucumber.version>
 		<maven.test.failure.ignore>true</maven.test.failure.ignore>
 	</properties>
