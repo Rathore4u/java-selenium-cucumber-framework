@@ -5,7 +5,7 @@ This framework is basically developed and designed to automate application produ
 # Work Flow
 
 1. Create a branch - sample change to delete
-2. Do your work
+2. Do your work - second line edit 
 3. Prepare feature / bug fix branch
  * Make sure commit history is clean 
 4. Raise pull request to merge your branch into the main repo branches
